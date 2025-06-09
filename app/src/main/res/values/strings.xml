@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name" translatable="false">Lundo</string>
+    <string name="random_quote">Random quote</string>
+    <string name="archetype_of_the_day">Archetype of the day: %s</string>
+    <string name="todays_journey">Today\'s journey</string>
+    <string name="creed">Creed</string>
+    <string name="instant_growth">🚀 Instant growth</string>
+    <string name="quote_source">Source: %s</string>
+    <string name="insight_title">Insight</string>
+    <string name="task_insight_empty">You haven\'t completed any tasks yet. Try it out in the Today\'s journey section! 🚀</string>
+    <string name="task_insight">You\'ve already completed %s tasks so far. Keep it up! 🚀</string>
+    <string name="your_todays_progress">Your today\'s progress</string>
+    <string name="your_todays_progress_content">You\'ve completed %1$s of %2$s tasks today. Great job!</string>
+    <string name="your_todays_progress_content_empty">You haven\'t completed any tasks today yet. Let\'s get started!</string>
+    <string name="hi">Hi there, %s! 👋</string>
+    <string name="focus_of_the_day">Focus of the day</string>
+    <string name="add_to_the_task_list">Add to the task list</string>
+    <string name="another_quote">Another quote</string>
+    <string name="home">Home</string>
+    <string name="ai_chat">AI Chat</string>
+    <string name="flashcards">Flashcards</string>
+    <string name="books">Books</string>
+    <string name="ai_mode">AI Mode:</string>
+    <string name="ai_mode_loving">Loving</string>
+    <string name="ai_mode_coach">Coach</string>
+    <string name="ai_mode_mentor">Mentor</string>
+    <string name="ai_mode_strategist">Strategist</string>
+    <string name="your_message">Your message…</string>
+    <string name="send">Send</string>
+    <string name="tap_to_reveal_the_answer">Tap to reveal the answer</string>
+    <string name="typing_indicator">typing…</string>
+    <string name="test_result">Your result: %1$d of %2$d</string>
+    <string name="close">Close</string>
+    <string name="test_complete">🎉 Test complete!</string>
+    <string name="next_button">Next</string>
+    <string name="test_answer_explanation" translatable="false">ℹ️ %s</string>
+
+    <string name="luno_name">Luno</string>
+    <string name="luno_description">Warm and heartfelt, like your best friend. Perfect for soul-to-soul talks.</string>
+
+    <string name="nocton_name">Nocton</string>
+    <string name="nocton_description">A driven mentor. Helps you stay focused and keep moving forward.</string>
+
+    <string name="azor_name">Azor</string>
+    <string name="azor_description">A philosopher-strategist. Ideal for deep thoughts and big ideas.</string>
+
+    <string name="ravel_name">Ravel</string>
+    <string name="ravel_description">A systems genius. Helps bring order to chaos.</string>
+
+    <string name="seva_name">Seva</string>
+    <string name="seva_description">Quiet, wise, and warm-hearted. Like an evening walk under lantern light — speaks beautifully, listens deeply.</string>
+
+    <string name="library">Library</string>
+
+    <string name="find_on_the_web">Find on the web</string>
+    <string name="book">Book</string>
+    <string name="your_median_mood">Your median mood</string>
+    <string name="open_mood_tracker">Open Mood Tracker</string>
+
+    <plurals name="question_count">
+        <item quantity="one">%d question</item>       <!-- 1 -->
+        <item quantity="few">%d questions</item>      <!-- 2-4 -->
+        <item quantity="many">%d questions</item>    <!-- 5 и более, включая 0 -->
+        <item quantity="other">%d questions</item>    <!-- на всякий случай -->
+    </plurals>
+    <string name="not_enough_mood_data">Not enough data to show here. Try logging your mood in the Mood Tracker section!</string>
+    <string name="choose_your_friend">Choose your friend…</string>
+    <string name="settings_title">Settings</string>
+    <string name="and_their_superpowers">… and their superpowers</string>
+    <string name="allow_ai_to_manage_tasks">Allow AI to manage tasks</string>
+    <string name="allow_ai_to_manage_tasks_description">If enabled, AI will be able to view your tasks and help manage them. Changes will take effect on next launch.</string>
+    <string name="luno_initial_greeting">hi, sunshine ❤️</string>
+    <string name="seva_initial_greeting">Hello. What do you want to talk about, my friend?</string>
+    <string name="nocton_initial_greeting">focus mode on. goal clear? time to act.</string>
+    <string name="azor_initial_greeting">you’re right on time. shall we dive into thoughts like fog at dawn?</string>
+    <string name="ravel_initial_greeting">enough chaos. time to get organized — sharp, precise, on schedule.</string>
+    <string name="book_status">Status: %1$s</string>
+    <string name="book_status_reading_lowercase">reading</string>
+    <string name="book_status_reading">Reading</string>
+    <string name="book_status_done_lowercase">done</string>
+    <string name="book_status_done">Done</string>
+    <string name="book_status_want_to_read">Want to read</string>
+    <string name="flashcards_search">Search flashcards</string>
+    <string name="book_search">Search books</string>
+    <string name="all_flashcards">All flashcards</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="all_books">All books</string>
+    <string name="touch_to_reveal_the_answer">Tap to reveal the answer</string>
+    <string name="delete">Delete</string>
+    <string name="find_on_the_internet">Find on the internet</string>
+    <string name="edit_button">Edit</string>
+    <string name="show_all_books">Show all books</string>
+    <string name="it_is_empty_here_yet">It’s empty here for now 📚</string>
+    <string name="it_is_empty_here_yet_flashcards">It’s empty here for now 🙈</string>
+    <string name="show_all_flashcards">Show all flashcards</string>
+    <string name="cards">Cards</string>
+    <string name="diary_title">Diary</string>
+    <string name="online">online</string>
+    <string name="edit_book">Edit book</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="status">Status</string>
+    <string name="update">Update</string>
+    <string name="ai_picture">Picture</string>
+    <string name="file">File</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="mood">Your mood</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="signup_pfp_invite_msg">Will you upload a profile photo?</string>
+    <string name="signup_greeting">Hi! What\'s your name?</string>
+    <string name="signup_are_you_ready_msg">Awesome! Ready to begin?</string>
+    <string name="start_button">Start</string>
+    <string name="profile_picture_title">Profile photo</string>
+    <string name="tap_to_change">Tap to change</string>
+    <string name="photo_upload_title">Photo upload</string>
+    <string name="upload_profile_photo_button">Upload photo</string>
+    <string name="skip_button">Skip</string>
+    <string name="new_note">New note</string>
+    <string name="add">Add</string>
+    <string name="edited">Edited</string>
+    <string name="note_edited">Edited: %1$s</string>
+    <string name="edit_note_button">Edit note</string>
+    <string name="save">Save</string>
+    <string name="resend_message_button">Retry</string>
+    <string name="link">Link</string>
+    <string name="pin_incorrect">Incorrect PIN</string>
+    <string name="pin_too_short">PIN is too short</string>
+    <string name="ok">OK</string>
+    <string name="come_up_with_a_pin">Create a PIN</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="pin_field_label">PIN (4–16 characters)</string>
+    <string name="response_parsing_failed">Response parsing failed: %1$s</string>
+    <string name="network_error">Network error. Attempt %1$s of %2$s. Retrying…</string>
+    <string name="gemini_api_unexpected_error">Unexpected error: %1$s. Attempt %2$s of %3$s. Retrying…</string>
+    <string name="gemini_api_no_valid_response_content_found">Hmm… couldn\'t find a valid response. Try again?</string>
+    <string name="gemini_api_unexpected_response_format">Weird response format. Let’s try that again.</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="add_note">Add a note…</string>
+    <string name="record">Record</string>
+    <string name="mood_history">Mood history</string>
+    <string name="gemini_api_error">Oops, something went wrong with Lundo AI. Try again later — or turn on a VPN if needed.</string>
+    <string name="connection_error">No signal! Check your Wi-Fi or data and give it another go.</string>
+</resources>
